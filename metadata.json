@@ -1,0 +1,8 @@
+{
+  "name": "SCE - Giải Pháp Công Nghệ Giáo Dục & Doanh Nghiệp",
+  "description": "Cổng thông tin & Giải pháp hạ tầng công nghệ an toàn, thiết bị máy tính, tủ sạc thông minh và phần mềm bản quyền Windows, Office 365 cho Trường học & Doanh nghiệp - CÔNG TY TNHH SẢN XUẤT VÀ THƯƠNG MẠI SCE (Smart Company Education).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
